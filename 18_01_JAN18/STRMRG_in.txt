@@ -1,0 +1,17 @@
+1
+5
+4 4
+abab
+baba
+3 3
+aaa
+bbb
+4 5
+abab
+abaab
+6 7
+AGGTAB
+GXTXAYB
+3 3
+aba
+bab
